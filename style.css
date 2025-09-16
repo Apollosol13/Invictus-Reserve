@@ -110,8 +110,8 @@ body {
 }
 
 .logo:hover {
-    filter: blur(1px) brightness(1);
-    opacity: 0.9;
+    filter: blur(0px) brightness(1.2);
+    opacity: 1;
     transform: scale(1.05);
 }
 
